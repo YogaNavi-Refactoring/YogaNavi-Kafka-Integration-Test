@@ -1,1 +1,0 @@
-# YogaNavi-Kafka-Integration-Test
